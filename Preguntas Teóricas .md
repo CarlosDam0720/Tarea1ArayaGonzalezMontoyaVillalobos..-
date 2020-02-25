@@ -1,5 +1,8 @@
 # Tarea1ArayaGonzalezMontoyaVillalobos..-
 Repositorio de Microprocesadores y Microcontroladores
+
+
+
 "1) Que es Git?
 R/ Git, es un software de control de versiones diseñado por Linus Torvalds. Para comprender mejor al respecto, se define como control de versiones a la gestión de los diversos cambios que se realizan sobre los elementos de algún producto o una configuración del mismo, es decir, se trata de la gestión de los diversos cambios que se realizan sobre los elementos de algún producto o una configuración, y para los que aún no les queda claro del todo lo que se tiene hasta el momento.
 Básicamente el control de versiones es lo que se hace o aplica a la hora de desarrollar una página web o un software. También, es cuando una persona sube y actualiza su código en la nube, o le añaden alguna parte o simplemente lo editan aspectos que no funcionan como deberían o al menos no como se espera o solicita.
